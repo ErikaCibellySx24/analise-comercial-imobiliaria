@@ -51,6 +51,7 @@ Este projeto foi desenvolvido como parte de um **desafio de criação de dashboa
 
 * `vendas_imobiliaria_jan_mai_2025.xlsx`: Base completa simulada
 * `vendas_confirmadas_jan_mai_2025.xlsx`: Vendas com imóveis realmente negociados
+* Link com gerador: [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I326blx4Y7mrByMXLPznqrW5qrEDlR2k?usp=sharing)
 * `dashboard.pbix`: Arquivo do Power BI com o dashboard interativo
 
 ---
